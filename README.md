@@ -5,6 +5,12 @@ runas /user:PC-NAME\Admin-User "cmd"
 password: 
 ```
 
+or
+
+```
+cmd /c "runas /user:admin-mtk \"C:\Path\To\Your\App.exe""
+```
+
 
 or 
 
